@@ -1,0 +1,1 @@
+mapLocation = "maps/map3"
